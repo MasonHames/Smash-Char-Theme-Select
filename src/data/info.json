@@ -74,7 +74,7 @@
             "Falco",
             "Mewtwo",
             "Pkmn Trainer- Squirtle",
-            "Pkmn Trainer- CHarizard",
+            "Pkmn Trainer- Charizard",
             "Diddy Kong",
             "Sonic",
             "King Dedede",
@@ -294,7 +294,7 @@
             "Ryu",
             "Ken",
             "Ridley",
-            "Inceneroar",
+            "Incineroar",
             "Terry",
             "Min Min",
             "Kazuya"
@@ -395,15 +395,80 @@
             "Pyra",
             "Mythra"
         ]
+        
     },
     
     {
         "name": "Orange is the New Black",
         "description": "Fighter had to be majority orange.",
         "suggestions": [
-            "",
-            "Character 3",
-            "Character 4"
+            "Donkey Kong",
+            "Samus",
+            "Kirby",
+            "Fox",
+            "Pikachu",
+            "Luigi",
+            "Ness",
+            "Daisy",
+            "Bowser",
+            "Ice Climbers",
+            "Falco",
+            "Young Link",
+            "Mewtwo",
+            "Roy",
+            "Chrom",
+            "Meta Knight",
+            "Zero Suit Samus",
+            "Ike",
+            "Pkmn Trainer- Squirtle",
+            "Pkmn Trainer- Ivysaur",
+            "Pkmn Trainer- Charizard",
+            "Diddy Kong",
+            "Lucas",
+            "Sonic",
+            "Wolf",
+            "Mega Man",
+            "Shulk",
+            "Duck Hunt",
+            "Ryu",
+            "Corrin",
+            "Inkling",
+            "Ridley",
+            "King K. Rool",
+            "Isabella",
+            "Incineroar",
+            "Hero",
+            "Min Min",
+            "Pyra"
         ]
+    },
+
+    {
+        "name": "Example Theme B",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "suggestions": [
+        "Character 2",
+        "Character 3"
+    ]
+    },
+    
+    {
+        "name": "Example Theme B",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "suggestions": [
+        "Character 2",
+        "Character 3"
+    ]
+    },
+    
+    {
+        "name": "Example Theme B",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "suggestions": [
+        "Character 2",
+        "Character 3"
+    ]
     }
+    
+   
 ]
