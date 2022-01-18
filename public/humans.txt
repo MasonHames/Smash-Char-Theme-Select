@@ -3,6 +3,8 @@
 
 /* TEAM */
 Developer: Lisa Bernhardt
+Developer: Mason Hames
+Data Analyst: Breanna Rogers
 Location: Atlanta, Georgia, USA
 
 /* THANKS */
