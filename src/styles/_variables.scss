@@ -1,5 +1,5 @@
-$white-color: #FFF;
-$green-color: #2A8000;
+$white-color: #fff;
+$green-color: #44ca01;
 $black-color: #000;
 $link-color: #21759b;
 $off-white: #f1f1f1;
@@ -7,10 +7,3 @@ $red-color: #842029;
 $red-light-color: #f8d7da;
 $red-alt-color: #f5c2c7;
 $shadow-color: rgba(0, 0, 0, 0.6);
-
-$BanjoKazooie: "Personal projects/Smash-Char-Theme-Select/src/images/Banjo&KazooieHeadSSBU.png";
-body {
-    margin: 0 auto;
-    background: url(#{$BanjoKazooie});
-    width: 100%; 
-  }

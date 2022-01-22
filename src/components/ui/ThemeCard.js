@@ -1,6 +1,5 @@
 import React from 'react';
 import { injectIntl } from 'react-intl';
-
 import cardStyles from '../../styles/theme-card.module.scss';
 
 class ThemeCard extends React.Component {
@@ -34,6 +33,13 @@ class ThemeCard extends React.Component {
                         )}
                     </ul>
                 )}
+                 {/* {data && data.images && data.images.length > 0 && (
+                    <ul>
+                        {data.images.map( 
+                            (character, index) => this.renderCharacter(character, `theme-character-${index}`) 
+                        )}
+                    </ul>
+                )} */}
 			</section>
 		)
 	}
