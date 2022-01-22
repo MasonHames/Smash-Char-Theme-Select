@@ -1,0 +1,13 @@
+import variables from /Personal projects/Smash-Char-Theme-Select/src/styles/_variables.scss;
+
+[
+    
+    picArray = [
+    {
+      imageIcon: require('/Personal projects/Smash-Char-Theme-Select/src/images/Banjo&KazooieHeadSSBU.png')
+    },
+    
+    ]
+]
+
+"image": require("/Personal projects/Smash-Char-Theme-Select/src/images/JigglypuffHeadSSBU.png")  
