@@ -32,14 +32,16 @@ class ThemeCard extends React.Component {
                             (character, index) => this.renderCharacter(character, `theme-character-${index}`) 
                         )}
                     </ul>
-                )}
-                 {/* {data && data.images && data.images.length > 0 && (
-                    <ul>
-                        {data.images.map( 
-                            (character, index) => this.renderCharacter(character, `theme-character-${index}`) 
-                        )}
-                    </ul>
-                )} */}
+                )} 
+                {/* need to fix */}
+                 {data && data.images && data.images.length > 0 && (
+                    <div>
+                        {data.images.map((character, index) => 
+                        <img src = { this.renderCharacter(character, `theme-character-${index}`)} 
+                        alt='smashimage' height={250} width={250}/>)}
+                 )
+                    </div>
+                 )}
 			</section>
 		)
 	}
