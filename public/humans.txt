@@ -15,3 +15,6 @@ URL: https://code.google.com/p/html5shiv/
 /* SITE */
 Standards: HTML5, CSS3
 Language: English
+
+/* DISCLAMER */
+All images used in this project were found online and we do not claim any ownership of said images (we intend to replace these at a later date)
