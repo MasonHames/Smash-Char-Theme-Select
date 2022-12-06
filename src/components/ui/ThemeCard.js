@@ -39,7 +39,6 @@ class ThemeCard extends React.Component {
                         {data.images.map((character, index) => 
                         <img src = { this.renderCharacter(character, `theme-character-${index}`)} 
                         alt='smashimage' height={250} width={250}/>)}
-                 )
                     </div>
                  )}
 			</section>
