@@ -33,13 +33,14 @@ class ThemeCard extends React.Component {
                         )}
                     </ul>
                 )} 
-                {/* need to fix */}
+                {/* need to fix .... need to write a method that takes in the { this.renderCharacter(character, `theme-character-${index}`)} and passes it back as a string within ''s */}
                  {data && data.images && data.images.length > 0 && (
                     <div>
                         {data.images.map((character, index) => 
                         <img src = { this.renderCharacter(character, `theme-character-${index}`)} 
                         alt='smashimage' height={250} width={250}/>)}
                     </div>
+                    
                  )}
 			</section>
 		)
