@@ -17,8 +17,7 @@
 		"react-router": "^5.1.0",
 		"react-router-dom": "^5.1.0",
 		"react-scripts": "^3.1.2",
-		"typescript": "^3.9.7",
-		"vercel": "^28.10.1"
+		"typescript": "^3.9.7"
 	},
 	"devDependencies": {
 		"node-sass": "^4.14.1",
