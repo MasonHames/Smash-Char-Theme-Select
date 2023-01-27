@@ -813,7 +813,7 @@
 
     {
         "name": "Bully, Bully",
-        "description": "Fightr would be a bully at school.",
+        "description": "Fighter would be a bully at school.",
         "suggestions": [
         "Mario",
         "Dark Samus",
@@ -1570,7 +1570,7 @@
     },
 
     {
-        "name": "It's All Relative, Baby!",
+        "name": "Keep it in the family!",
         "description": "Fighters that are related in some way",
         "suggestions": [
         "Mario",
